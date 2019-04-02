@@ -8,4 +8,6 @@ Note that the author of this repo does not accept any responsibility for persona
 
 They involve using passwords and e-mail data.  
 
-Even though passwords are handled by `getpass`, there may be other security risks involved. Users should familiarise themselves with the libraries included and take overall responsibility for the execution of scripts.
+Even though passwords are handled by `getpass`, there may be other security risks involved. Users should familiarise themselves with the libraries included and take overall responsibility for the execution of scripts.  
+
+Likewise, the usage of e-mail headers (especially `From` and `To` fields) is highly unreliable as they can be easily spoofed.  
