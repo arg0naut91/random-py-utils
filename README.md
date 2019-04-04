@@ -4,7 +4,7 @@ Just a collection of random Python scripts.
 
 For CPU & GPU alerts, you need *OpenHardwareMonitor* installed and up and running (with admin rights) before executing. You also need `wmi` and `pywin32` installed.  
 
-Note that the author of this repo does not accept any responsibility for personal and/or collective damage done by using these scripts.  
+Note that the creator of this repo does not accept any responsibility for personal and/or collective damage done by using these scripts.  
 
 They involve using passwords and e-mail data.  
 
